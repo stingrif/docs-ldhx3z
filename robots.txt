@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-j81rc9.keitaro-tech-rtb.online/sitemap.xml
